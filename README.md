@@ -8,7 +8,7 @@ My goal is to combine coding and creativity to develop applications that make te
 ---
 
 ## 🧠 About Me  
-- 🌱 Currently learning **Python development**, **AI/ML fundamentals**, and **Cloud infrastructure (AWS & GCP)**  
+- 🌱 Currently learning **Python development** and **Cloud infrastructure (AWS & GCP)**  
 - 💡 Interested in solving real-world problems using automation and machine learning  
 - ⚙️ Exploring **DevOps basics** and **deployment strategies**  
 - 🚀 Working on projects that bridge **AI models and cloud technologies**
@@ -17,8 +17,7 @@ My goal is to combine coding and creativity to develop applications that make te
 
 ## 🧩 Technologies & Tools  
 **Languages:** Python, SQL  
-**Cloud:** AWS, GCP, Azure (Basics)  
-**AI & ML:** NumPy, Pandas, Scikit-learn, OpenAI API  
+**Cloud:** Oracle ,AWS, GCP, Azure (Basics)   
 **Web & Deployment:** Streamlit, Flask, GitHub Pages  
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 
